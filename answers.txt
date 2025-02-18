@@ -1,0 +1,14 @@
+1. I would say that they both have their advantages. One thing  I noticed was that Loess would more accurately follow the
+majority of the data. Thus, it would leave out a few up top and bottom. However, Kalaman would do a better job of trying to include
+all values. For this particular assignment, I believe that Loess got the better output as it looks a little more tighter and concise compared
+to kalman. Also, sometimes extra out of the ordinary values may not be needed. Thus, Loess is the better option
+
+
+2. The Degrees and speed can help predict the location as speed in m/s can help provide a time and the degrees of direction
+can provide a path the person in walking in.  Time tells you how long it's been, and speed and direction help figure out where you might go 
+next. The degrees and speed can help predict the location since speed in m/s provides a time estimate, and the direction 
+shows the path the person is walking. For example, if someone is walking north at a steady speed, we can guess they will be farther north 
+ in a certain amount of time. However, changes in speed or direction make predicting the exact location tricky in real life.
+
+ 
+
